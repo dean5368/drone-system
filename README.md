@@ -1,7 +1,7 @@
 # Roblox Drone System
 
 This portfolio sample contains the scripting layers of a Roblox drone-control system.
-(youtube link) [https://youtu.be/gqc0TsG1Cvs]
+(youtube link)[https://youtu.be/gqc0TsG1Cvs]
 ## Included systems
 
 - Client input for keyboard, gamepad, and mobile controls
